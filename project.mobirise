@@ -76,7 +76,7 @@
           },
           "title": "<i>Emy WebSite<br>My Blog/Vlog</i>",
           "text": "My goal is to help everyone in as much.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Femywebsite.github.io%2Fen%2Findex.html&amp;amp;src=sdkpreparse\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Facebook SHARE</a> "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://emywebsite.github.io/EmyWebSite-0.1.apk\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Android Download</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Femywebsite.github.io%2Fen%2Findex.html&amp;amp;src=sdkpreparse\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Facebook SHARE</a> "
         },
         {
           "_inherit": "header2",
@@ -134,68 +134,6 @@
           "title": "This is my best video. Enjoyable viewing",
           "text": "Full screen intro with youtube video.<br>Mobirise helps you cut down development time by providing you with a flexible website editor.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://www.youtube.com/channel/UCZDKsmsX0jaTBn0jJ2rKDrg\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MORE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "images": [
-              {
-                "tags": "Animated",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=Osqo_geeD_Y",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2016-11-23-13-50-44.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=_nDQXFxE7Us",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2016-11-23-13-52-03.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Animated",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=fC0d_qEIuyA",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2016-11-23-13-51-22.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=N7_0OM42Am4&t=23s",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2016-11-23-13-51-38.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here",
-                "active": false
-              }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery1-4",
-          "articleLayout": false,
-          "allItem": "All"
         },
         {
           "_inherit": "features3",
@@ -323,6 +261,68 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=Osqo_geeD_Y",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2016-11-23-13-50-44.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=_nDQXFxE7Us",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2016-11-23-13-52-03.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=fC0d_qEIuyA",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2016-11-23-13-51-22.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": true,
+                "videoUrl": "https://www.youtube.com/watch?v=N7_0OM42Am4&t=23s",
+                "videoPreview": "@PROJECT_PATH@/assets/images/2016-11-23-13-51-38.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-4",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "content2",
           "_anchor": "content2-5",
           "_params": {
@@ -392,7 +392,7 @@
               "active": true
             }
           },
-          "text1": "Footer with solid color background and a contact form, Easily add subscribe and contact forms without any server-side integration.",
+          "text1": "",
           "media1": {
             "iconFont": {
               "active": true,
